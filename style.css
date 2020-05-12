@@ -1,0 +1,57 @@
+.userCard {
+    background-color: #17A2B8;
+    height: auto;
+    width: auto;
+    display: inline-block;
+}
+
+.userContent {
+    height: auto;
+    margin: 100px 0 40px;
+    background-color: white;
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+}
+
+.userContent img {
+    width: 90px;
+    height: 90px;
+    border: solid 4px white;
+    border-radius: 50px;
+    margin-top: -45px;
+}
+
+.userContent p {
+    width: 90%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.userContent h2 {
+    margin: 0;
+}
+
+a {
+    padding: 5px;
+    color: white;
+    border: solid 1px transparent;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.button1 {
+    background-color: #28A745;
+    margin: 10px 0 10px 5px;
+}
+
+.button2 {
+    background-color: #17A2B8;
+    margin: 10px 5px 10px 0;
+}
+
+hr {
+    width: 93%;
+    color: silver;
+}
